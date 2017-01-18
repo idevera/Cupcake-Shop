@@ -4,12 +4,16 @@ body {
 }
 
 h2.best {
-	letter-spacing: 3px;
+	letter-spacing: 5px;
 	color: blue;
 }
 
-p.flashy {
-	color: red;
-	font-style: italic;
+.column {
+	margin: auto;
+	float: left;
 }
 
+.footer {
+	margin: auto;
+	float: left;
+}
